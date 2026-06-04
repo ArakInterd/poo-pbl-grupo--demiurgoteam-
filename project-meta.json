@@ -1,0 +1,12 @@
+{
+  "curso": "Engenharia de Software",
+  "disciplina": "Orientação a Objetos",
+  "tema_escolhido": "Plataforma de Financiamento Coletivo (Crowdfunding) para Projetos Sociais",
+  "linguagem": "Java",
+  "gerenciador_dependencias": "Maven",
+  "integrantes": [
+    {"nome": "Caio Vitor de Lima Lopes", "github_username": "caiovitorlima"},
+    {"nome": "Arthur Carvalho Thaumaturgo", "github_username": "ArDev4"},
+    {"nome": "João Pedro Araújo de Alcantara", "github_username": "ArakInterd"}
+  ]
+}
