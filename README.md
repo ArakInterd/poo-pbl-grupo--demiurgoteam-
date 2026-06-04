@@ -16,7 +16,7 @@ mvn test jacoco:report
 # compilar e gerar o jar
 mvn package
 
-# interface de linha de comando (bônus)
+# interface de linha de comando
 mvn exec:java -Dexec.mainClass="crowdfunding.presentation.cli.Main"
 # ou após o package:
 java -jar target/crowdfunding-1.0.0.jar
