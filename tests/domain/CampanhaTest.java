@@ -16,7 +16,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class CampanhaTest {
 
-    // helpers para criar objetos de teste
+    // helpers, para criar objetos de teste.
     private Prazo prazoAtivo() {
         return new Prazo(
                 new Date(System.currentTimeMillis() - 86400000L),
