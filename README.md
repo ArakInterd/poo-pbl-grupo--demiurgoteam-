@@ -1,6 +1,6 @@
 # Crowdfunding Social — POO/DDD em Java
 
-Plataforma de financiamento coletivo para projetos sociais. Trabalho prático da disciplina de Orientação a Objetos.
+Plataforma de financiamento coletivo para projetos sociais.
 
 ## Como rodar
 
