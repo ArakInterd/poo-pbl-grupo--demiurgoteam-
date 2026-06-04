@@ -1,6 +1,6 @@
 {
-  "curso": "Engenharia de Software",
-  "disciplina": "Orientação a Objetos",
+  "curso": "Ciência da Computação",
+  "disciplina": "Projeto de Programação",
   "tema_escolhido": "2",
   "linguagem": "Java",
   "gerenciador_dependencias": "Maven",
