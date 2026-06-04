@@ -5,7 +5,7 @@ import crowdfunding.domain.aggregates.Campanha;
 
 import java.util.*;
 
-// repositório em memória — simula um banco sem precisar de dependência externa
+// repositório em memória (simula um banco sem precisar de dependência externa).
 public class CampanhaRepositoryMemoria implements ICampanhaRepository {
     private final Map<String, Campanha> store = new HashMap<>();
 
